@@ -2,6 +2,8 @@
 
 Cookie Chase is a simple retro styled grid-based game where the player navigates through different levels, collecting cookies while avoiding obstacles.
 
+Detailed Report can be found in this Google doc link ... https://docs.google.com/document/d/17qvtYn21xZbfIQO46mHD82T_y2p5dDoaSct8RimOwaQ/edit?usp=sharing
+
 ## How to Play
 
 - Move your character using the arrow keys (↑ ↓ → ←).
