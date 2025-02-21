@@ -37,8 +37,8 @@ Click the "Start" button to begin the game.
 *   X - Exit the game and return to the main menu.
 
 ## Credits
-Developed using Python and SimpleGUI.
-Detailed Report can be found in this Google doc link ... https://docs.google.com/document/d/17qvtYn21xZbfIQO46mHD82T_y2p5dDoaSct8RimOwaQ/edit?usp=sharing
+- Developed using Python and SimpleGUI.
+- Detailed Report can be found in this Google doc link ... https://docs.google.com/document/d/17qvtYn21xZbfIQO46mHD82T_y2p5dDoaSct8RimOwaQ/edit?usp=sharing
 
 
 # Hope you enjoy the game! #
